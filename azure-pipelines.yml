@@ -12,4 +12,4 @@ steps:
     displayName: 'dotnet build'
     inputs:
       command: build
-      arguments: '--confguration $(buildConfiguration)'
+      arguments: '--configuration $(buildConfiguration)'
