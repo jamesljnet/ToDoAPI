@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ToDoAPI
+  annotations:
+    github.com/project-slug: jamesljnet/ToDoAPI
+spec:
+  type: other
+  lifecycle: unknown
+  owner: jamesljnet
